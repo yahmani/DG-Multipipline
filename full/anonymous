@@ -1,0 +1,6 @@
+
+Id userStoryID = 'a1vfI0000008UFRQA2';
+
+CrossPipeline.deleteUserStoryAttachments(userStoryID);
+CrossPipeline.generatePackageXML(userStoryID);
+CrossPipeline.autoCommit(userStoryID);
