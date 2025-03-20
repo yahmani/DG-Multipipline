@@ -1,1 +1,1 @@
-Go the Full folder
+Go to the Full folder
